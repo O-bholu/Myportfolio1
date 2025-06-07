@@ -31,7 +31,7 @@ const Projects = () => {
       image: '/assets/project3.jpg',
       technologies: ['React.js', 'Tailwind CSS', 'Node.js', 'Socket.IO.'],
       links: {
-        github: 'https://github.com/O-bholu/CodeTogether',
+        github: 'https://github.com/O-bholu/CodeTogether1',
         live: 'https://example.com',
       },
     },
